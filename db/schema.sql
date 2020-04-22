@@ -1,8 +1,8 @@
-drop database if exists burgers_db;
+-- drop database if exists burgers_db;
 
-create database burgers_db;
+-- create database burgers_db;
 
-use burgers_db;
+use uczq7s8mmrrg7l3n;
 
 create table burgers (
 id INT (10) auto_increment not null,
